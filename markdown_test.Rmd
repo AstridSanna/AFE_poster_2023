@@ -1,21 +1,17 @@
 ---
-title: "AFE POSTER NARRATIVE"
+title: "Astrid Sanna's 2023 AFE Conference Poster"
 output: html_document
-date: "2023-11-14"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##### I'm working on it! 
-But here an Italian tongue twister to keep you busy while you wait ...
-Sul campanile di Chiaravalle
-c’è una ciribiciaccola
-con cinquecentocinquantacinque ciribiciaccolini.
-Vale di più la ciribiciaccola
-dei cinquecentocinquantacinque ciribiciaccolini?
-Quando i cinquecentocinquantacinque ciribiciaccolini vogliono chiacchierare con la ciribiciaccola
-la ciribiciaccola è pronta a chiacchierare con cinquecentocinquantacinque ciribiciaccolini
-la ciribicciaccola chiacchiera, i ciribiciaccolini chiacchierano
-ma la chiacchierata della ciribiciaccola è più lunga di quella dei cinquecentocinquantacinque ciribiciaccolini.
+<style>
+h1.title {
+  text-align: center;
+  font-size: 24px; /* Or any other size you prefer */
+}
+</style>
+
+![](AFE_poster_v7.png)
