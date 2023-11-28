@@ -14,4 +14,4 @@ h1.title {
 }
 </style>
 
-![](AFE_poster_v8.png)
+![](AFE_poster_v9.png)
